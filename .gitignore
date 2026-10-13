@@ -1,0 +1,6 @@
+.env
+kol.env
+*.session
+*.session-journal
+__pycache__/
+found_chats.txt
